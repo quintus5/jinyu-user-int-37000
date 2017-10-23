@@ -1,0 +1,16 @@
+	unsigned char setspeed[] = "SET:MAX_SPD";
+	unsigned char setyaw[]   = "SET:MAX_YAW";
+	unsigned char setpid[]   = "SET:PIDGAIN";
+	unsigned char setIRsam[] = "SET:IR_RATE";
+	unsigned char IRraw[]    = "READ:IR_RAW";
+	unsigned char statmean[] = "READ:MEAN  ";
+	unsigned char statvar[]  = "READ:VAR   ";
+  
+  unsigned char manmode[]  = "MODE:MANUAL";
+	unsigned char motor_on[] = "SET:MTR _ON";
+	unsigned char motor_of[] = "SET:MTR _OF";
+	unsigned char setspeed[] = "SET:MAX_SPD";
+  
+unsigned char astmode[]  = "MODE:ASSIST";
+    
+ unsigned char autmode[]  = "MODE:AUTO  ";
